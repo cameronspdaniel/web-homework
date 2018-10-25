@@ -1,0 +1,36 @@
+.container-fluid .navbar .navbar-brand {
+    background-color: teal;
+    color: white;
+    padding: 10px 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.container-fluid .navbar .dropdown .btn-secondary {
+    border: none;
+}
+
+.navbar-nav #li {
+    display: inline;
+}
+
+.landingleftimage {
+    width: 40%;
+    float: left;
+    margin-right: 10px;
+}
+
+.fig1 {
+    width: 100%;
+}
+
+.fig2 {
+    width: 100%;
+}
+
+.fig3 {
+    width: 100%;
+}
+
+.fig4 {
+    width: 100%;
+}
